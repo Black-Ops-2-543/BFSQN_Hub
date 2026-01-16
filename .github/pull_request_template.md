@@ -1,78 +1,37 @@
-# BFSQN Hub – Pull Request
+# BFSQN Hub - New Spoke
 
-## Summary  
-Brief description of what this PR adds, changes, or fixes.
+## Summary
+__What does this spoke add? Lay it out in a few bullets.__
+-
 
----
 
-## Type of Change  
-(Check all that apply)
-
-- [ ] New feature
-- [ ] Compatibility support  
-- [ ] Bug fix  
-- [ ] Refactor / cleanup  
-- [ ] Other
-
----
-
-## Addon Location  
-Which addon folder does this affect?
-
-`BFSQN_Hub/addons/BFSQN_<name>`
-
-If you created a new addon, list it here:
-
-`BFSQN_<name>`
-
----
-
-## Description of Changes  
-Explain what was added and why.
-
-- What problem does this solve?  
-- What does it improve?  
-- Any design decisions worth noting?
-
----
-
-## Dependencies  
-Requires anything beyond:
-
-- CBA_A3  
-- BFSQN Hub  
-
-If yes, list them:
-
-`Example: RHS, CUP, S.O.G. Prairie Fire`
-
----
-
-## Testing  
-How was this tested?
-
+## Testing
+__Where did you test it? *You don't need all the checkboxes filled.*__
+- [ ] Arsenal
 - [ ] Eden Editor
-- [ ] Zeus
-- [ ] Local MP
-- [ ] SP only
-- [ ] Not tested
+- [ ] Local MP Instance
+- [ ] Dedicated Server 
 
-Testing notes:
+## Addon Location
+__What is the name of the folder you used?__
+`bfsqn_hub/addons/bfsqn_<name>`
 
-`Example: New content visible in arsenal. Mod build without errors.`
+__Did you modify any files outside of this folder?__
+- [ ] Yes
+- [ ] No
 
----
+## Meta Information
+__List any additional dependencies:__
 
-## Checklist  
 
-- [ ] Uses BFSQN naming conventions
+__Did you ensure that **all** other spokes work as intended?__
+- [ ] Yes
+- [ ] No
+
+__Any additional notes about this spoke?__
+
+
+## Final Checklist
+- [ ] Spoke uses BFSQN naming conventions
 - [ ] Addon builds without errors
-- [ ] No unrelated changes included
-- [ ] Does not break existing features
-- [ ] Individual mod also uploaded to Workshop
-
----
-
-## Additional Notes  
-Anything else the squad should know?
-
+- [ ] No unrelated changes on same fork
