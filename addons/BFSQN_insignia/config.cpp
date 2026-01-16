@@ -20,6 +20,7 @@ class CfgUnitInsignia
         displayName = "BFSQN | Member";
         author = "Blackforce Squadron";
         texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\general_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
 
@@ -28,6 +29,7 @@ class CfgUnitInsignia
         displayName = "BFSQN | AA Rifleman";
         author = "Blackforce Squadron";
         texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\aaRifleman_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
 
@@ -36,6 +38,7 @@ class CfgUnitInsignia
         displayName = "BFSQN | AT Rifleman";
         author = "Blackforce Squadron";
         texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\atRifleman_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
 
@@ -44,6 +47,7 @@ class CfgUnitInsignia
         displayName = "BFSQN | Breacher";
         author = "Blackforce Squadron";
         texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\breacher_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
 
@@ -52,6 +56,7 @@ class CfgUnitInsignia
         displayName = "BFSQN | Explosives Specialist";
         author = "Blackforce Squadron";
         texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\eod_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
     
@@ -60,6 +65,7 @@ class CfgUnitInsignia
         displayName = "BFSQN | Grenadier";
         author = "Blackforce Squadron";
         texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\grenadier_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
 
@@ -68,6 +74,7 @@ class CfgUnitInsignia
         displayName = "BFSQN | Helicopter Pilot";
         author = "Blackforce Squadron";
         texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\heliPilot_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
 
@@ -76,6 +83,7 @@ class CfgUnitInsignia
         displayName = "BFSQN | Machinegunner";
         author = "Blackforce Squadron";
         texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\machinegunner_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
 
@@ -84,6 +92,7 @@ class CfgUnitInsignia
         displayName = "BFSQN | Marksman";
         author = "Blackforce Squadron";
         texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\marksman_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
 
@@ -92,6 +101,7 @@ class CfgUnitInsignia
         displayName = "BFSQN | Medic";
         author = "Blackforce Squadron";
         texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\medic_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
 
@@ -100,6 +110,7 @@ class CfgUnitInsignia
         displayName = "BFSQN | Plane Pilot";
         author = "Blackforce Squadron";
         texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\planePilot_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
 
@@ -108,6 +119,7 @@ class CfgUnitInsignia
         displayName = "BFSQN | Squad Lead";
         author = "Blackforce Squadron";
         texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\squadLead_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
 
@@ -116,6 +128,7 @@ class CfgUnitInsignia
         displayName = "BFSQN | UAV Operator";
         author = "Blackforce Squadron";
         texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\uavOperator_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
 };
