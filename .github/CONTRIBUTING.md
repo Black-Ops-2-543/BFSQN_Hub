@@ -16,10 +16,10 @@ If you want to add on a new spoke, follow these steps before any other:
 1. Sign-in to your GitHub account.
 2. Create a new fork of this repository so that you can edit your own copy.
   - This is found in the top-right of the repo homepage.
-  - Name your fork something reasonable. It should follow the form `bfsqn_<name>`. The `<name>` should be no more than two words.
+  - Name your fork something reasonable. It should follow the form `BFSQN_<name>`. The `<name>` should be no more than two words.
 3. Load into your preferred coding environment. If you use (the preferred) Visual Studio Code, [this tutorial](https://code.visualstudio.com/docs/sourcecontrol/overview) does a good job at teaching how to use GitHub.
-4. Create a new folder under `addons/`. The name of this folder should be the `bfsqn_<name>` you decided on earlier.
-5. Inside this folder, create a file named `$PBOPREFIX$`. Inside it, paste `x\bfsqn_hub\addons\bfsqn_<name>`. Make sure to change that final `<name>`!
+4. Create a new folder under `addons/`. The name of this folder should be the `BFSQN_<name>` you decided on earlier.
+5. Inside this folder, create a file named `$PBOPREFIX$`. Inside it, paste `x\BFSQN_Hub\addons\BFSQN_<name>`. Make sure to change that final `<name>`!
 6. Inside the folder, create a file named `script_component.hpp`. Inside it, paste:
 ```
 #define SPOKE ""
@@ -42,9 +42,13 @@ class CfgPatches
         requiredVersion = REQUIRED_VERSION;
         units[] = {};
         weapons[] = {};
-        requiredAddons[] = { "bfsqn_core" };
+        requiredAddons[] = { "BFSQN_core" };
     };
 };
 ```
   - **Do not** edit any of the data from `class ADDON` to the first `};`. If you think you need to (changing `requiredAddons[]` for example), DM *blackops2543* on Discord.
 8. You're done with files! Ensure the whole BFSQN MH builds and your Arma 3 launches, then begin modding!
+
+# Last Steps
+
+Once you're finished with developing your spoke, you'll need to submit a **pull request** through GitHub so that your fork can be merged into the main branch.
