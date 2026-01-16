@@ -1,6 +1,4 @@
-#define PREFIX BFSQN
+#define SPOKE "Blackforce Squadron Hub - Core"
 #define COMPONENT core
 
-#define COMPONENT_BEAUTIFIED Blackforce Squadron Hub - Core
-
-#include "\x\cba\addons\main\script_macros_common.hpp"
+#include "universal_script_component.hpp" // this must be last

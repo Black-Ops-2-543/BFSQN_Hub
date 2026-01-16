@@ -2,16 +2,13 @@
 
 class CfgPatches
 {
-    class BFSQN_core
+    class ADDON
     {
-        name = "Blackforce Squadron Hub - Core";
-        author = "Blackforce Squadron";
-        requiredVersion = 2.12;
+        name = SPOKE;
+        author = AUTHOR;
+        requiredVersion = REQUIRED_VERSION;
 
-        requiredAddons[] =
-        {
-            "cba_main"     // Hard dependency on CBA
-        };
+        requiredAddons[] = { "cba_main" };
 
         units[] = {};
         weapons[] = {};
