@@ -2,8 +2,8 @@
 
 ## Summary
 __What does this spoke add? Lay it out in a few bullets.__
--
-
+- Nothing
+- More Nothing
 
 ## Testing
 __Where did you test it? *You don't need all the checkboxes filled.*__
@@ -14,7 +14,7 @@ __Where did you test it? *You don't need all the checkboxes filled.*__
 
 ## Addon Location
 __What is the name of the folder you used?__
-`bfsqn_hub/addons/bfsqn_<name>`
+- `BFSQN_hub/addons/BFSQN_<name>`
 
 __Did you modify any files outside of this folder?__
 - [ ] Yes
@@ -22,14 +22,15 @@ __Did you modify any files outside of this folder?__
 
 ## Meta Information
 __List any additional dependencies:__
-
+- Dependency 1
+- Dependency 2
 
 __Did you ensure that **all** other spokes work as intended?__
 - [ ] Yes
 - [ ] No
 
 __Any additional notes about this spoke?__
-
+- No Notes
 
 ## Final Checklist
 - [ ] Spoke uses BFSQN naming conventions
