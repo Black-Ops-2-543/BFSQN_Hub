@@ -131,4 +131,13 @@ class CfgUnitInsignia
         material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
         scope = 2;
     };
+
+    class bfsqn_insignia_tanker
+    {
+        displayName = "BFSQN | Tanker";
+        author = "Blackforce Squadron";
+        texture = "\x\bfsqn_hub\addons\bfsqn_insignia\images\tanker_insignia.paa";
+        material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
+        scope = 2;
+    };
 };
