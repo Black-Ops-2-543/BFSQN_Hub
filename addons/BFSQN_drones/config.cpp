@@ -13,6 +13,8 @@
 //   cba_main           - CBA (required by ACE)
 // ============================================================
 
+#include "script_component.hpp"
+
 class CfgPatches
 {
     class ADDON
